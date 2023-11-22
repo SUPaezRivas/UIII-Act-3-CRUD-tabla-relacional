@@ -9,5 +9,5 @@ Sergio uziel paez Rivas
 ![](https://github.com/SUPaezRivas/UIII-Act-3-CRUD-tabla-relacional/blob/main/Captura%20de%20pantalla%202023-11-21%20200827.png)
 
 ## Tabla ventas
-![]()
+![](https://github.com/SUPaezRivas/UIII-Act-3-CRUD-tabla-relacional/blob/main/Captura%20de%20pantalla%202023-11-21%20200140.png)
 ![](https://github.com/SUPaezRivas/UIII-Act-3-CRUD-tabla-relacional/blob/main/Captura%20de%20pantalla%202023-11-21%20200838.png)
